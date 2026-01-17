@@ -243,4 +243,18 @@ body{
     width: 32px;
     height: auto;
     object-fit: contain;
+
+}
+
+.back-btn {
+  display: inline-block;
+  margin: 20px 100px;
+  padding: 12px 20px;
+  border-radius: 20px;
+  background: #EDFAE1;
+  color: #407E00;
+  text-decoration: none;
+  font-family: "fairfax";
+  font-size: 18px;
+  border: 2px solid #63C200;
 }
